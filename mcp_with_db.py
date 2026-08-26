@@ -6,7 +6,7 @@ mcp=FastMCP("expences tracker")
 
 # database connection
 
-db_path=os.path.join(os.path.dirname(__file__),"expenses.db")
+db_path=os.db_path = "/tmp/expenses.db"
 categores_path=os.path.join(os.path.dirname(__file__),"categories.json")
 
 
